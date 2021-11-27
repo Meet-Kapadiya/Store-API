@@ -16,6 +16,6 @@ This api has advanced filtering options by passing Query String
  ## Example
  - https://store-api-01.herokuapp.com/api/v1/products?name=e&numericFilters=price>30,rating>=4&sort=price,rating&fields=name,price,rating&limit=5
  
- ![result]()
+ ![result](./assets/img/03-57-02 PM.png)
   
  
